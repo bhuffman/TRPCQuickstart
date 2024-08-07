@@ -1,0 +1,37 @@
+{
+  "recipeName": "My Sample Recipe",
+  "shortDescription": "Short description of the recipe",
+  "ingredients": [
+    {
+      "name": "Ingredient 1",
+      "gramWeight": "100",
+      "NBD": "12060"
+    },
+    {
+      "name": "Ingredient 2",
+      "gramWeight": "200",
+      "NBD": "35193"
+    },
+
+    {
+      "name": "Ingredient 3",
+      "gramWeight": "300",
+      "NBD": "43479"
+    }
+  ],
+  "miseEnPlace": [
+    "Chop item Ingredient 1",
+    "Fine Dice Ingredient 2",
+    "Peel item Ingredient 3"
+  ],
+  "instructions": ["Instruction 1", "Instruction 2", "Instruction 3"],
+  "garnish": "Garnish description",
+  "tips": ["Tip 1", "Tip 2", "Tip 3"],
+  "prepTime": "30 minutes",
+  "cookTime": "1 hour",
+  "DifficultyLevel": "Intermediate",
+  "equipmentNeeded": ["Sautee Pan", "Cook Pot", "Dutch Oven", "Blender"]
+}
+
+
+ 
